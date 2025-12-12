@@ -1,0 +1,27 @@
+prompt = """
+# Generate Code in Rust
+
+Please generate a Rust program that solves the following problem:
+
+{{args}}
+
+## Requirements:
+- The code should be idiomatic Rust and well-structured.
+- Include comments to explain the logic.
+- Provide a `main` function with a clear example of how to use the code.
+- Ensure the code is runnable and produces the correct output.
+- Use `cargo` for project management.
+
+## Example:
+
+User request: "a simple command-line argument parser"
+
+```rust
+use std::env;
+
+fn main() {
+    let args: Vec<String> = env::args().collect();
+    println!("Arguments: {:?}", args);
+}
+```
+"""

@@ -1,0 +1,30 @@
+prompt = """
+# Generate Code in Node.js
+
+Please generate a Node.js program that solves the following problem:
+
+{{args}}
+
+## Requirements:
+- The code should be modern, idiomatic JavaScript (ES6+).
+- Include comments to explain the logic.
+- Provide a clear example of how to use the code.
+- Ensure the code is runnable in a Node.js environment.
+- Use CommonJS or ES modules as appropriate.
+
+## Example:
+
+User request: "a simple script to read a file"
+
+```javascript
+const fs = require('fs');
+
+fs.readFile('file.txt', 'utf8', (err, data) => {
+  if (err) {
+    console.error(err);
+    return;
+  }
+  console.log(data);
+});
+```
+"""

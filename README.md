@@ -98,6 +98,30 @@ After installation, restart Gemini CLI and start using prompts:
 - `/prompts:create-template` - Create prompt templates
 - `/prompts:best-practices` - Learn prompt tips
 
+### 💻 Code Generation
+- `/generate:golang` - Generate Go code
+- `/generate:rust` - Generate Rust code
+- `/generate:java` - Generate Java code
+- `/generate:javascript` - Generate JavaScript code
+- `/generate:typescript` - Generate TypeScript code
+- `/generate:nodejs` - Generate Node.js code
+
+### 📈 BMAD Method
+- `/bmad:analyst` - Act as the Analyst persona.
+- `/bmad:product-manager` - Act as the Product Manager persona.
+- `/bmad:architect` - Act as the Architect persona.
+- `/bmad:product-owner` - Act as the Product Owner persona.
+- `/bmad:scrum-master` - Act as the Scrum Master persona.
+- `/bmad:developer` - Act as the Developer persona.
+- `/bmad:qa-engineer` - Act as the QA Engineer persona.
+- `/bmad:ux-designer` - Act as the UX Designer persona.
+- `/bmad:test-architect` - Act as the Test Architect persona.
+- `/bmad:tech-writer` - Act as the Tech Writer persona.
+- `/bmad:game-architect` - Act as the Game Architect persona.
+- `/bmad:game-designer` - Act as the Game Designer persona.
+- `/bmad:game-developer` - Act as the Game Developer persona.
+- `/bmad:bmad-master` - Act as the BMad Master persona.
+
 ## 💡 Usage Examples
 
 ### Security Code Review
