@@ -114,6 +114,13 @@ After installation, restart Gemini CLI and start using prompts:
 - `/bmad:scrum-master` - Act as the Scrum Master persona.
 - `/bmad:developer` - Act as the Developer persona.
 - `/bmad:qa-engineer` - Act as the QA Engineer persona.
+- `/bmad:ux-designer` - Act as the UX Designer persona.
+- `/bmad:test-architect` - Act as the Test Architect persona.
+- `/bmad:tech-writer` - Act as the Tech Writer persona.
+- `/bmad:game-architect` - Act as the Game Architect persona.
+- `/bmad:game-designer` - Act as the Game Designer persona.
+- `/bmad:game-developer` - Act as the Game Developer persona.
+- `/bmad:bmad-master` - Act as the BMad Master persona.
 
 ## 💡 Usage Examples
 
