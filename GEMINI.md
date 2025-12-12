@@ -56,6 +56,14 @@ This extension provides a curated library of high-quality prompts for common dev
 - **create-prompt-template**: Create reusable prompt templates
 - **prompt-best-practices**: Learn prompt engineering tips
 
+### 9. Code Generation
+- **generate-golang**: Generate Go code
+- **generate-rust**: Generate Rust code
+- **generate-java**: Generate Java code
+- **generate-javascript**: Generate JavaScript code
+- **generate-typescript**: Generate TypeScript code
+- **generate-nodejs**: Generate Node.js code
+
 ## How to Use Prompts
 
 When a user runs a prompt command (e.g., `/prompts:code-review-security`), you should:

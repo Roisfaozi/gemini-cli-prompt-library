@@ -98,6 +98,14 @@ After installation, restart Gemini CLI and start using prompts:
 - `/prompts:create-template` - Create prompt templates
 - `/prompts:best-practices` - Learn prompt tips
 
+### 💻 Code Generation
+- `/generate:golang` - Generate Go code
+- `/generate:rust` - Generate Rust code
+- `/generate:java` - Generate Java code
+- `/generate:javascript` - Generate JavaScript code
+- `/generate:typescript` - Generate TypeScript code
+- `/generate:nodejs` - Generate Node.js code
+
 ## 💡 Usage Examples
 
 ### Security Code Review

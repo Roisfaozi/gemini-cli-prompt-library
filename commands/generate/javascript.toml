@@ -1,0 +1,36 @@
+prompt = """
+# Generate Code in JavaScript
+
+Please generate a JavaScript program that solves the following problem:
+
+{{args}}
+
+## Requirements:
+- The code should be modern, idiomatic JavaScript (ES6+).
+- Include comments to explain the logic.
+- Provide a clear example of how to use the code.
+- Ensure the code is runnable in a browser or Node.js environment.
+
+## Example:
+
+User request: "a function to fetch data from an API"
+
+```javascript
+async function fetchData(url) {
+  try {
+    const response = await fetch(url);
+    if (!response.ok) {
+      throw new Error('Network response was not ok');
+    }
+    const data = await response.json();
+    return data;
+  } catch (error) {
+    console.error('There has been a problem with your fetch operation:', error);
+  }
+}
+
+// Example usage:
+fetchData('https://api.github.com/users/github')
+  .then(data => console.log(data));
+```
+"""
