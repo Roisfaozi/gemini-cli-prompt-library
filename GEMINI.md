@@ -68,17 +68,22 @@ This extension provides a curated library of high-quality prompts for common dev
 - **bmad-analyst**: Act as the Analyst persona.
 - **bmad-product-manager**: Act as the Product Manager persona.
 - **bmad-architect**: Act as the Architect persona.
-- **bmad-product-owner**: Act as the Product Owner persona.
 - **bmad-scrum-master**: Act as the Scrum Master persona.
 - **bmad-developer**: Act as the Developer persona.
-- **bmad-qa-engineer**: Act as the QA Engineer persona.
 - **bmad-ux-designer**: Act as the UX Designer persona.
+- **bmad-principal-engineer**: Act as the Principal Engineer persona.
 - **bmad-test-architect**: Act as the Test Architect persona.
 - **bmad-tech-writer**: Act as the Tech Writer persona.
 - **bmad-game-architect**: Act as the Game Architect persona.
 - **bmad-game-designer**: Act as the Game Designer persona.
 - **bmad-game-developer**: Act as the Game Developer persona.
 - **bmad-bmad-master**: Act as the BMad Master persona.
+
+### 11. BMad Workflows
+- **bmad-workflows-workflow-init**: Start a new BMAD project.
+- **bmad-workflows-planning**: Guide through the planning phase.
+- **bmad-workflows-solutioning**: Guide through the solutioning phase.
+- **bmad-workflows-implementation-cycle**: Guide through the implementation cycle.
 
 ## How to Use Prompts
 
