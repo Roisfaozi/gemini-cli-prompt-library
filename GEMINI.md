@@ -64,6 +64,15 @@ This extension provides a curated library of high-quality prompts for common dev
 - **generate-typescript**: Generate TypeScript code
 - **generate-nodejs**: Generate Node.js code
 
+### 10. BMAD Method
+- **bmad-analyst**: Act as the Analyst persona.
+- **bmad-product-manager**: Act as the Product Manager persona.
+- **bmad-architect**: Act as the Architect persona.
+- **bmad-product-owner**: Act as the Product Owner persona.
+- **bmad-scrum-master**: Act as the Scrum Master persona.
+- **bmad-developer**: Act as the Developer persona.
+- **bmad-qa-engineer**: Act as the QA Engineer persona.
+
 ## How to Use Prompts
 
 When a user runs a prompt command (e.g., `/prompts:code-review-security`), you should:

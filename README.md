@@ -106,6 +106,15 @@ After installation, restart Gemini CLI and start using prompts:
 - `/generate:typescript` - Generate TypeScript code
 - `/generate:nodejs` - Generate Node.js code
 
+### 📈 BMAD Method
+- `/bmad:analyst` - Act as the Analyst persona.
+- `/bmad:product-manager` - Act as the Product Manager persona.
+- `/bmad:architect` - Act as the Architect persona.
+- `/bmad:product-owner` - Act as the Product Owner persona.
+- `/bmad:scrum-master` - Act as the Scrum Master persona.
+- `/bmad:developer` - Act as the Developer persona.
+- `/bmad:qa-engineer` - Act as the QA Engineer persona.
+
 ## 💡 Usage Examples
 
 ### Security Code Review
