@@ -80,6 +80,40 @@ This extension provides a curated library of high-quality prompts for common dev
 - **bmad-game-developer**: Act as the Game Developer persona.
 - **bmad-bmad-master**: Act as the BMad Master persona.
 
+### 11. DevOps
+- **dockerfile**: Generate and optimize Dockerfiles
+- **kubernetes**: Generate K8s manifests and debug issues
+- **ci-cd**: Create CI/CD pipelines
+- **terraform**: Generate Terraform IaC code
+- **bash-scripting**: Write robust shell scripts
+
+### 12. Data Science
+- **sql-query**: Generate and optimize SQL queries
+- **pandas-analysis**: Python Pandas code for analysis
+- **visualization**: Generate code for charts/graphs
+- **regex-helper**: Create and explain regex patterns
+
+### 13. Security
+- **threat-modeling**: Guide threat modeling sessions
+- **incident-response**: Checklists for security incidents
+- **hardening**: System hardening guidelines
+
+### 14. Product Management
+- **user-stories**: Draft detailed user stories
+- **release-notes**: Generate release notes
+- **competitor-analysis**: Analyze competitors
+- **user-personas**: Generate user personas
+
+### 15. Career
+- **resume-polish**: Improve resume content
+- **interview-prep**: Simulate technical interviews
+- **cover-letter**: Draft cover letters
+
+### 16. Workflows
+- **secure-sdlc**: Orchestrate a secure development lifecycle (PM -> Security -> Dev -> DevOps)
+- **data-product-launch**: End-to-end data product creation (PM -> Data Science -> Dev)
+- **release-cycle**: Manage release process (QA -> DevOps -> PM)
+
 ## How to Use Prompts
 
 When a user runs a prompt command (e.g., `/prompts:code-review-security`), you should:

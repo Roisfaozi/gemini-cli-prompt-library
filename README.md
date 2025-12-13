@@ -122,6 +122,40 @@ After installation, restart Gemini CLI and start using prompts:
 - `/bmad:game-developer` - Act as the Game Developer persona.
 - `/bmad:bmad-master` - Act as the BMad Master persona.
 
+### 🚀 DevOps
+- `/devops:dockerfile` - Generate/Optimize Dockerfiles
+- `/devops:kubernetes` - K8s manifests & debugging
+- `/devops:ci-cd` - CI/CD pipeline generation
+- `/devops:terraform` - Terraform IaC generation
+- `/devops:bash-scripting` - Robust shell scripting
+
+### 📊 Data Science
+- `/data-science:sql-query` - Generate/Optimize SQL
+- `/data-science:pandas-analysis` - Pandas data analysis
+- `/data-science:visualization` - Generate plots/charts
+- `/data-science:regex-helper` - Regex generation & explanation
+
+### 🛡️ Security
+- `/security:threat-modeling` - Threat modeling (STRIDE)
+- `/security:incident-response` - Incident response checklists
+- `/security:hardening` - System hardening guides
+
+### 💼 Product Management
+- `/product-management:user-stories` - Write detailed user stories
+- `/product-management:release-notes` - Generate release notes
+- `/product-management:competitor-analysis` - Competitor analysis
+- `/product-management:user-personas` - Generate user personas
+
+### 🎓 Career
+- `/career:resume-polish` - Improve resume bullets
+- `/career:interview-prep` - Technical interview prep
+- `/career:cover-letter` - Draft cover letters
+
+### 🔄 Workflows
+- `/workflows:secure-sdlc` - Secure Software Development Life Cycle
+- `/workflows:data-product-launch` - Data extraction, analysis, and integration
+- `/workflows:release-cycle` - Testing, packaging, and release notes
+
 ## 💡 Usage Examples
 
 ### Security Code Review
