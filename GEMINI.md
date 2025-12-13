@@ -109,6 +109,11 @@ This extension provides a curated library of high-quality prompts for common dev
 - **interview-prep**: Simulate technical interviews
 - **cover-letter**: Draft cover letters
 
+### 16. Workflows
+- **secure-sdlc**: Orchestrate a secure development lifecycle (PM -> Security -> Dev -> DevOps)
+- **data-product-launch**: End-to-end data product creation (PM -> Data Science -> Dev)
+- **release-cycle**: Manage release process (QA -> DevOps -> PM)
+
 ## How to Use Prompts
 
 When a user runs a prompt command (e.g., `/prompts:code-review-security`), you should:

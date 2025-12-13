@@ -151,6 +151,11 @@ After installation, restart Gemini CLI and start using prompts:
 - `/career:interview-prep` - Technical interview prep
 - `/career:cover-letter` - Draft cover letters
 
+### 🔄 Workflows
+- `/workflows:secure-sdlc` - Secure Software Development Life Cycle
+- `/workflows:data-product-launch` - Data extraction, analysis, and integration
+- `/workflows:release-cycle` - Testing, packaging, and release notes
+
 ## 💡 Usage Examples
 
 ### Security Code Review
